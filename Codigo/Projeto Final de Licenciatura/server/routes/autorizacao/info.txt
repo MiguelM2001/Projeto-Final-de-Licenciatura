@@ -1,0 +1,3 @@
+auth.js ---> é utilizado para autorizar uma rota desportegida. 
+
+validar_user.js  ---> é utilizado sempre que uma página é reloaded. Serve para autenticar o user.
